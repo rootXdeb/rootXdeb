@@ -1,0 +1,43 @@
+{
+  "sections": [
+    {
+      "title": "{{username}}@github",
+      "fields": [
+        { "key": "OS", "value": "Linux, MacOS" },
+        { "key": "Uptime", "value": "{{uptime}}" },
+        { "key": "Host", "value": "Swami Vivekananda University" },
+        { "key": "Kernel", "value": "PenTester" },
+        { "key": "IDE", "value": "Kolkata" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Languages.Programming", "value": "{{languages}}" },
+        { "key": "Languages.Computer", "value": "Bash, Python, C" },
+        { "key": "Languages.Real", "value": "English, Bengali, Hindi" }
+      ]
+    },
+    {
+      "fields": [
+        { "key": "Hobbies.Software", "value": "Linux Kernel, Burp Suite" },
+        { "key": "Hobbies.Hardware", "value": "Linux System Administration" }
+      ]
+    },
+    {
+      "title": "- Contact",
+      "fields": [
+        { "key": "Email", "value": "majidebdulal123@gmail.com" },
+        { "key": "LinkedIn", "value": "rootxdeb" },
+        { "key": "Website", "value": "rootxdeb.in" }
+      ]
+    }
+  ],
+  "stats": {
+    "title": "- GitHub Stats",
+    "rows": [
+      { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
+      { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
+      "loc"
+    ]
+  }
+}
