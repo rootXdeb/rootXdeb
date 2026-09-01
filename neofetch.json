@@ -1,6 +1,6 @@
 {
+  "image": "https://github.com/rootXdeb/rootXdeb/blob/main/dark_mode.svg",
   "removeBackground": true,
-  "image": "https://raw.githubusercontent.com/rootXdeb/rootXdeb/main/dark_mode.svg",
   "sections": [
     {
       "title": "{{username}}@github",
